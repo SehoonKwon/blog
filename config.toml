@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://SehoonKwon.github.io"
+baseURL = "https://SehoonKwon.github.io/"
 languageCode = "en-us"
 theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
 resourceDir = "../resources"
@@ -12,9 +12,9 @@ enableRobotsTXT = true
 
 [languages]
   [languages.en]
-    title = "Ananke"
+    title = "Sehoon's Blog"
     weight = 1
-    contentDir = "content/en"
+    contentDir = "content/"
   [languages.fr]
     title = "Ananke Fr"
     weight = 2
