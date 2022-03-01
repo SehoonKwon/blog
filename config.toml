@@ -14,7 +14,7 @@ enableRobotsTXT = true
   [languages.en]
     title = "Sehoon's Blog"
     weight = 1
-    contentDir = "content/"
+    contentDir = "content/en"
   [languages.fr]
     title = "Ananke Fr"
     weight = 2
