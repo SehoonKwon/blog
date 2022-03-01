@@ -1,2 +1,2 @@
 # blog
-Hugo를 이용한 blog
+Hugo를 이용한 Github blog
